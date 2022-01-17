@@ -22,7 +22,7 @@ import List from './components/List'
 import store from './copyStore';
 import reportWebVitals from './reportWebVitals';
 import 'antd/dist/antd.css';
-console.log('store', store)
+console.log('store22', store)
 ReactDOM.render((
   <Provider store={store}>
     <React.Fragment>
